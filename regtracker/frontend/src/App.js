@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Shield, Bell, Star, Eye, Settings, LogOut, Search, Filter, ChevronDown, AlertCircle } from 'lucide-react';
+import { Shield, Bell, Star, Eye, Settings, LogOut } from 'lucide-react';
 
 const API_URL = process.env.REACT_APP_API_URL || 'http://localhost:8000';
 
